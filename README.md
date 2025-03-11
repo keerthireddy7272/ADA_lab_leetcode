@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/0224-basic-calculator) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/0224-basic-calculator) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -56,4 +58,16 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/0316-remove-duplicate-letters) |
+## Array
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
