@@ -40,6 +40,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -65,9 +66,18 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/keerthireddy7272/ADA_lab_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
